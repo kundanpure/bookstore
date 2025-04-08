@@ -16,19 +16,34 @@ A robust and modular RESTful API for a Bookstore application, built using **Java
 
 ---
 
-## 📷 Postman Screenshots
+## 📷 Postman / Swagger Screenshots
 
-### 🔐 Signup
+#### 🔐 Signup
 ![Signup](screenshots/signup.png)
 
-### 🔐 Login
+#### 🔐 Login
 ![Login](screenshots/login.png)
 
-### 📘 Create Book
-![Create Book](screenshots/create-book.png)
+#### 📖 Get Book By ID
+![Book By ID](screenshots/bookbyid.png)
 
-### 📚 Filter Books
-![Filter Books](screenshots/see-books.png)
+#### 🗑️ Delete Book
+![Delete Book](screenshots/deletebook.png)
+
+#### 🔍 Search Book
+![Search Book](screenshots/searchbook.png)
+
+#### ⚠️ Exception Handling (Invalid Book ID)
+![Exception](screenshots/exception.png)
+
+#### 📑 Swagger UI
+![Swagger](screenshots/swagger.png)
+
+#### 🕵️ Other Screens
+![Screen 1](screenshots/Screenshot%202025-04-09%20015117.png)  
+![Screen 2](screenshots/Screenshot%202025-04-09%20023138.png)  
+![Screen 3](screenshots/Screenshot%202025-04-09%20023654.png)
+
 
 
 ## ✅ Features
