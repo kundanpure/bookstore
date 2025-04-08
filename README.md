@@ -16,6 +16,21 @@ A robust and modular RESTful API for a Bookstore application, built using **Java
 
 ---
 
+## 📷 Postman Screenshots
+
+### 🔐 Signup
+![Signup](screenshots/signup.png)
+
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 📘 Create Book
+![Create Book](screenshots/create-book.png)
+
+### 📚 Filter Books
+![Filter Books](screenshots/see-books.png)
+
+
 ## ✅ Features
 
 ### 🔐 User Authentication
